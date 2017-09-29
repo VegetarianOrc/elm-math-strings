@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "A library to evaluate math expressions as Strings.",
+    "repository": "https://github.com/fake/fake.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [
+      "Math.Strings"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "mhoare/elm-stack": "3.1.1 <= v < 4.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
